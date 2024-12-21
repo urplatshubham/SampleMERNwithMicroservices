@@ -1,4 +1,4 @@
-# Deploying a Dockerized MERN Backend on AWS EC2
+# Continous Deployment & Scaling a Dockerized MERN on AWS EC2
 
 This guide outlines the steps to deploy a Dockerized backend service from a MERN stack application using Amazon ECR and EC2, along with all steps from setting up the environment to deployment. Visual examples are provided to ensure clarity.
 
