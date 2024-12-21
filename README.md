@@ -1,4 +1,4 @@
-# Deploying a Dockerized MERN Backend on AWS EC2
+![Screenshot (803)](https://github.com/user-attachments/assets/bf118f48-80e9-4bde-a896-40a252005e39)# Deploying a Dockerized MERN Backend on AWS EC2
 
 This guide outlines the steps to deploy a Dockerized backend service from a MERN stack application using Amazon ECR and EC2, along with all steps from setting up the environment to deployment. Visual examples are provided to ensure clarity.
 
@@ -54,7 +54,7 @@ This guide outlines the steps to deploy a Dockerized backend service from a MERN
   docker build -t mern-backend .
   ```
 
-![Docker Build Process](attachment:file-XjWYNf5MGaz4LfsLbCtwfJ)
+![Screenshot (803)](https://github.com/user-attachments/assets/585620e2-a55b-4304-bbba-2aaa64cf4298)
 
 ### **2.2 Dockerize the Frontend Application**
 
@@ -101,7 +101,8 @@ This guide outlines the steps to deploy a Dockerized backend service from a MERN
    docker push <account-id>.dkr.ecr.<region>.amazonaws.com/mern-backend:latest
    ```
 
-   ![Docker Push Process](attachment:file-RP7mnG5AQm7BC3d8MdX7Gf)
+   ![Screenshot (803)](https://github.com/user-attachments/assets/6d4a9a9f-16ba-462d-a73b-a83e27ea0f38)
+
 
 ---
 
